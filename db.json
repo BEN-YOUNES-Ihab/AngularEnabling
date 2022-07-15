@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "name": "Nike T-shirt",
+      "category": "T-shirt ",
+      "price": "30",
+      "size": "M",
+      "comment": "test 999"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
